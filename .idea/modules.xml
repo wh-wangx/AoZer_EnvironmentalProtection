@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AoZer_EnvironmentalProtection.iml" filepath="$PROJECT_DIR$/.idea/AoZer_EnvironmentalProtection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/air-energy/air-common/air-common.iml" filepath="$PROJECT_DIR$/air-energy/air-common/air-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/air-energy/air-devtools/air-devtools.iml" filepath="$PROJECT_DIR$/air-energy/air-devtools/air-devtools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/air-energy/air-energy.iml" filepath="$PROJECT_DIR$/air-energy/air-energy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/air-energy/air-gateway/air-gateway.iml" filepath="$PROJECT_DIR$/air-energy/air-gateway/air-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/air-energy/air-services/air-products/air-products.iml" filepath="$PROJECT_DIR$/air-energy/air-services/air-products/air-products.iml" />
+      <module fileurl="file://$PROJECT_DIR$/air-energy/air-services-api/air-products-api/air-products-api.iml" filepath="$PROJECT_DIR$/air-energy/air-services-api/air-products-api/air-products-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/air-energy/air-services/air-services.iml" filepath="$PROJECT_DIR$/air-energy/air-services/air-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/air-energy/air-services-api/air-services-api.iml" filepath="$PROJECT_DIR$/air-energy/air-services-api/air-services-api.iml" />
+    </modules>
+  </component>
+</project>

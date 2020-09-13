@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="USE_RELEASE_OPTION" value="false" />
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="air-products" />
+        <module name="air-devtools" />
+        <module name="air-gateway" />
+        <module name="air-common" />
+        <module name="air-products-api" />
+        <module name="air-services-api" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="air-common" target="1.8" />
+      <module name="air-devtools" target="1.8" />
+      <module name="air-energy" target="1.8" />
+      <module name="air-gateway" target="1.8" />
+      <module name="air-products" target="1.8" />
+      <module name="air-products-api" target="8" />
+      <module name="air-services" target="1.8" />
+      <module name="air-services-api" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="air-common" options="-parameters" />
+      <module name="air-devtools" options="-parameters" />
+      <module name="air-gateway" options="-parameters" />
+      <module name="air-products" options="-parameters" />
+      <module name="air-services-api" options="-parameters" />
+    </option>
+  </component>
+</project>
